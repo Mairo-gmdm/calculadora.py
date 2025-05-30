@@ -1,0 +1,14 @@
+print("Calculadora Simples")
+vl1 = float(input("Digite o primeiro valor"))
+vl2 = float(input("Digite o segundo valor"))
+
+    
+sm = (vl1 + vl2)
+mn = (vl1 - vl2)
+dv = (vl1 / vl2)
+mt = (vl1 * vl2)
+
+print("soma: ", sm)
+print("subtração: ", mn)
+print("Divisão: ", dv)
+print("Multiplicação: ", mt)
